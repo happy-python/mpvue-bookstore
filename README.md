@@ -1,6 +1,6 @@
 # mpvue-bookstore
 
-> A Mpvue project
+> 使用 mpvue + koa2 开发图书扫码微信小程序
 
 ## Build Setup
 
